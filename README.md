@@ -4,4 +4,4 @@
 
 - 我的个人博客是：https://looyeagee.cn/
 - 我的微博ID是：looyeagee
-- 有学术问题交流可以给我发邮件：looyeagee@stu.csust.edu.c
+- 有学术问题交流可以给我发邮件：looyeagee@stu.csust.edu.cn
